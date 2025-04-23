@@ -1,0 +1,12 @@
+name: CourseNotes
+desc: A revision website by students, for students.
+site: https://notes.opott.uk
+tags:
+  - web
+  - static
+  - html
+  - css
+  - js
+upforgrabs:
+  name: CourseNotes
+  link: https://github.com/opott/CourseNotes/labels/up%20for%20grabs
